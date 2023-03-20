@@ -3,9 +3,9 @@ class Database{
    
     // specify your own database credentials
     private $host = "localhost";
-    private $db_name = "A2PA";
-    private $username = "user_bts";
-    private $password = "eclipse";
+    private $db_name = "a2pa";
+    private $username = "root";
+    private $password = "root";
     private $conn;
    
     // get the database connection

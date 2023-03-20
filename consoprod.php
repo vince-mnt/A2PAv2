@@ -9,4 +9,6 @@ include_once "views/layout_header.php";
 
 include_once "includes/graph/graph.php";
 
+include_once "views/layout_footer.php"; 
+
 ?>
